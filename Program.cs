@@ -67,7 +67,7 @@ namespace SimplePortScanner
             }
 
             Console.WriteLine($"Port scanning closed.");
-            openPorts.ForEach(x => Console.Write(x));
+            openPorts.ForEach(x => Console.Write(x + ','));
         }
     }
 }
