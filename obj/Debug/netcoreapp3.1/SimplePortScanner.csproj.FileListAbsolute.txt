@@ -1,0 +1,12 @@
+F:\source\repos\SimplePortScanner\SimplePortScanner\bin\Debug\netcoreapp3.1\SimplePortScanner.exe
+F:\source\repos\SimplePortScanner\SimplePortScanner\bin\Debug\netcoreapp3.1\SimplePortScanner.deps.json
+F:\source\repos\SimplePortScanner\SimplePortScanner\bin\Debug\netcoreapp3.1\SimplePortScanner.runtimeconfig.json
+F:\source\repos\SimplePortScanner\SimplePortScanner\bin\Debug\netcoreapp3.1\SimplePortScanner.runtimeconfig.dev.json
+F:\source\repos\SimplePortScanner\SimplePortScanner\bin\Debug\netcoreapp3.1\SimplePortScanner.dll
+F:\source\repos\SimplePortScanner\SimplePortScanner\bin\Debug\netcoreapp3.1\SimplePortScanner.pdb
+F:\source\repos\SimplePortScanner\SimplePortScanner\obj\Debug\netcoreapp3.1\SimplePortScanner.AssemblyInfoInputs.cache
+F:\source\repos\SimplePortScanner\SimplePortScanner\obj\Debug\netcoreapp3.1\SimplePortScanner.AssemblyInfo.cs
+F:\source\repos\SimplePortScanner\SimplePortScanner\obj\Debug\netcoreapp3.1\SimplePortScanner.csproj.CoreCompileInputs.cache
+F:\source\repos\SimplePortScanner\SimplePortScanner\obj\Debug\netcoreapp3.1\SimplePortScanner.dll
+F:\source\repos\SimplePortScanner\SimplePortScanner\obj\Debug\netcoreapp3.1\SimplePortScanner.pdb
+F:\source\repos\SimplePortScanner\SimplePortScanner\obj\Debug\netcoreapp3.1\SimplePortScanner.genruntimeconfig.cache
